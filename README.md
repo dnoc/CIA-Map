@@ -4,6 +4,7 @@ This was an interview project for a startup company. The goal was to create a ma
 It's built using Spring Boot/Maven, AngularJs, Leaflet, Bower, and Java code.
 
 Before this project I previously had little to no experience with: 
+```
 -Angular
 -Spring Boot
 -Leaflet
@@ -11,6 +12,7 @@ Before this project I previously had little to no experience with:
 -Writing MVC projects
 -Bower
 -More than beginner JavaScript.
+```
 
 I recieved a lot of help from my coworker at Manta, Amber Schwartz, who helped me understand the project structure, found a good angular-leaflet github repo to use, and more.
 A good amount of the code in this project is written by her as we were working on it. In starting a project, I work best in an environment where I can ask all my dumb questions to learn a new technology.
